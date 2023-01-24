@@ -1,0 +1,87 @@
+
+.body{
+    background-color: #fff;
+    font-family: poppins,sans-serif;
+}
+
+
+.mylink {
+    font-size: 16px;
+font-weight: 500;
+
+background-color: #fff;
+
+}
+
+
+.banner1{
+    color:#500ade ;
+    font-family: poppins,sans-serif;
+    
+
+}
+.mynav{
+    color:#500ade ;
+    font-size: 16px;
+font-weight: 500;
+margin: 20px;
+padding-right: 250px;
+}
+   
+ 
+
+.mycolor{
+    background-color: #500ade;
+    height: 60px;
+    color: #fff;
+    width: 202px;
+    padding: 0 20px;
+}
+
+.myschrift{
+    font-weight: 700;
+    text-align: center;
+    color: #252a32;
+   padding-top: 20px;
+    font-size: 58px;
+}
+
+
+.myfarbe{
+    
+    
+    display: inline-block;
+    text-align: center;
+    height: 60px;
+    line-height: 60px;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 600;
+    border-color: var(--main-color-one);
+    width: 202px;
+   color: #FFFFFF; 
+    padding: 0 20px;
+    background-color: #500ade;
+}
+
+.mylove{
+    display: inline-block;
+    text-align: center;
+    height: 60px;
+    line-height: 60px;
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 600;
+    color: #fff;
+    width: 202px;
+    background-color: #500ade;
+    padding: 0 20px;
+    border-color: var(--main-color-one);
+
+}
+
+
+.myfoto{
+    
+}
+
