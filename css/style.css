@@ -5,7 +5,7 @@
 }
 
 
-.mylink {
+.mynav {
     font-size: 16px;
 font-weight: 500;
 
@@ -14,74 +14,95 @@ background-color: #fff;
 }
 
 
-.banner1{
-    color:#500ade ;
+.mylink{
+    color: #1c144e;;
     font-family: poppins,sans-serif;
+    font-size: 19px;
+font-weight: 500;
+line-height: 90px;
     
 
 }
-.mynav{
+.navbar-brand{
     color:#500ade ;
-    font-size: 16px;
-font-weight: 500;
-margin: 20px;
-padding-right: 250px;
+    font-size: 25px;
+font-weight: 700;
+margin-bottom: 13px;
+
 }
    
  
 
-.mycolor{
-    background-color: #500ade;
-    height: 60px;
-    color: #fff;
-    width: 202px;
-    padding: 0 20px;
+.mybtn{
+    display: inline-block;
+text-align: center;
+height: 60px;
+line-height: 60px;
+font-size: 16px;
+text-transform: capitalize;
+font-weight: 600;
+color: #fff;
+width: 202px;
+background-color: #500ade;
+padding: 0 20px;
+margin-left: 20px;
 }
 
-.myschrift{
-    font-weight: 700;
-    text-align: center;
-    color: #252a32;
-   padding-top: 20px;
+.mytitel{
     font-size: 58px;
+line-height: 68px;
+font-weight: 700;
+color: #252a32;
+margin-bottom: 22px;
+font-family: poppins,sans-serif;
+text-align: center;
 }
 
-
-.myfarbe{
-    
-    
+.mybutton1{
     display: inline-block;
     text-align: center;
     height: 60px;
-    line-height: 60px;
+    line-height: 56px;
     font-size: 16px;
     text-transform: capitalize;
     font-weight: 600;
-    border-color: var(--main-color-one);
-    width: 202px;
-   color: #FFFFFF; 
-    padding: 0 20px;
-    background-color: #500ade;
-}
-
-.mylove{
-    display: inline-block;
-    text-align: center;
-    height: 60px;
-    line-height: 60px;
-    font-size: 16px;
-    text-transform: capitalize;
-    font-weight: 600;
-    color: #fff;
-    width: 202px;
-    background-color: #500ade;
-    padding: 0 20px;
-    border-color: var(--main-color-one);
+    padding: 0 40px;
+    transition: all .3s ease-in;
+border-radius: 5px;
+text-decoration: none;
+outline: none;
+background-color: #500ADE;
+color: white;
+border: 2px solid var(--main-color-one);
+margin-left: 450px ;
 
 }
 
-
-.myfoto{
+.mybutton2{
     
+    color:#500ADE ;
+    margin-left: 15px;
+    border: 2px solid  #500ADE ;
+    display: inline-block;
+text-align: center;
+height: 60px;
+line-height: 56px;
+font-size: 16px;
+text-transform: capitalize;
+font-weight: 600;
+transition: all .3s ease-in;
+border-radius: 5px;
+padding: 0 40px;
+text-decoration: none;
 }
+
+.myimg{
+    margin-left: 250px;
+    margin-top: 100px;
+}
+
+
+
+
+
 
