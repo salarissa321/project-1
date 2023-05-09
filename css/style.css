@@ -103,6 +103,49 @@ text-decoration: none;
 
 
 
+.mytitel2{
+    font-size: 58px;
+line-height: 68px;
+font-weight: 700;
+color: #1C144E;
+margin-bottom: 22px;
+font-family: poppins,sans-serif;
+text-align: center;  
+}
+
+
+
+.myicon1{
+    font-size: 36px;
+line-height: 46px;
+margin-left: 90px;
+
+}
+
+.card-sybtitle{
+    text-align: center;
+    font-size: 22px;
+line-height: 34px;
+color: #1c144e;
+font-weight: 700;
+font-family: poppins,sans-serif;
+margin-bottom: .5rem;
+margin-top: 0;
+}
+
+.card-text{
+    font-size: 16px;
+color: #666;
+line-height: 1.625;
+margin-top: 0;
+margin-bottom: 1rem;
+}
+
+
+
+
+
+
 
 
 
