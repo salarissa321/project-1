@@ -66,8 +66,8 @@ text-align: center;
     font-size: 16px;
     text-transform: capitalize;
     font-weight: 600;
-    padding: 0 40px;
-    transition: all .3s ease-in;
+padding: 0 40px;
+transition: all .3s ease-in;
 border-radius: 5px;
 text-decoration: none;
 outline: none;
@@ -104,7 +104,7 @@ text-decoration: none;
 
 
 .mytitel2{
-    font-size: 58px;
+font-size: 58px;
 line-height: 68px;
 font-weight: 700;
 color: #1C144E;
@@ -116,7 +116,7 @@ text-align: center;
 
 
 .myicon1{
-    font-size: 36px;
+font-size: 36px;
 line-height: 46px;
 margin-left: 85px;
 color: #1C144E;
@@ -124,8 +124,8 @@ color: #1C144E;
 }
 
 .card-subtitle{
-    text-align: center;
-    font-size: 24px;
+text-align: center;
+font-size: 24px;
 line-height: 34px;
 color: #1c144e;
 font-weight: 600;
@@ -135,11 +135,53 @@ margin-top: 0;
 }
 
 .card-text{
-    font-size: 16px;
+font-size: 16px;
 color: #666;
 line-height: 1.625;
 margin-top: 0;
 margin-bottom: 1rem;
+}
+
+.myfoto{
+    margin-left: 150px;
+    margin-top: 50px;
+    position: relative;
+z-index: 2;
+}
+
+.myspan{
+font-size: 20px;
+line-height: 30px;
+color: #500ade;
+text-transform: uppercase;
+font-weight: 600;
+font-family: poppins,sans-serif;
+display: block;
+margin-bottom: 10px;
+text-align: left;
+}
+
+.myuntertitel{
+    font-size: 48px;
+    line-height: 58px;
+    margin-bottom: 13px;
+    font-weight: 700;
+    color: #1c144e;
+    font-family: poppins,sans-serif;
+    margin-top: 0;
+    text-align: left;
+}
+
+.mybild{
+    margin-top: -290px;
+    border-radius: 10px;
+    max-width: 100%;
+    vertical-align: middle;
+border-style: none;
+position: relative;
+z-index: 0;
+margin-left: 170px;
+
 }
 
 
