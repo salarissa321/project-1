@@ -303,7 +303,81 @@ margin-left: 100px;
     color: white;
 }
 
+.myspan2{
+    font-size: 20px;
+    line-height: 30px;
+    color: #500ade;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: poppins,sans-serif;
+    display: block;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    text-align: left;
+    margin-left: 100px;
 
+}
+
+.myh3{
+    font-size: 48px;
+line-height: 58px;
+margin-bottom: 13px;
+font-weight: 700;
+color: #1c144e;
+letter-spacing: -1px;
+font-family: poppins,sans-serif;
+margin-top: 0;
+text-align: left;
+box-sizing: border-box;
+margin-left: 100px;
+}
+
+
+.mysentence{
+    font-weight: 400;  
+    font-size: 16px;
+    color: #777;
+    max-width: 720px;
+    line-height: 26px;
+    margin: 0 auto;
+    text-align: left;
+    box-sizing: border-box;
+    margin-left: 100px;
+}
+
+.myclick{
+    display: inline-block;
+text-align: center;
+height: 60px;
+line-height: 56px;
+font-size: 16px;
+text-transform: capitalize;
+font-weight: 600;
+color: #fff;
+background-color: #500ade;
+padding: 0 30px;
+transition: all .3s ease-in;
+border-radius: 5px;
+border: 2px solid transparent;
+text-decoration: none;
+outline: none;
+box-sizing: border-box;
+margin-top: 20px;
+margin-left: 100px;
+}
+
+.mypicture{
+    max-width: 100%;
+    vertical-align: middle;
+border-style: none;
+box-sizing: border-box;
+
+}
+
+
+.myimage{
+    margin-left: 80px;
+}
 
 
 
